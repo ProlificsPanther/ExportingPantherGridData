@@ -1,0 +1,2 @@
+Sample screen (MSExcel) has Grid with 2 buttons. The first buttons populates the Grid with 
+sample data and the second one exports data to Spread sheet.
