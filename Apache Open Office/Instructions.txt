@@ -1,0 +1,4 @@
+1. Sample screen has Grid with 2 buttons. The first buttons populates the Grid with 
+sample data and the second one exports data to Spread sheet.
+2. Point the Java class file in your system environment variables CLASSPATH including 
+the 2 jars i.e. (unoil.jar,juh.jar) from your Open Office installation directory i.e. (C:\Program Files (x86)\OpenOffice 4\program\classes\).
